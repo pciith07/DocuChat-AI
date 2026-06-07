@@ -1,0 +1,17 @@
+langchain
+langchain-community
+langchain-text-splitters
+
+langchain-huggingface
+sentence-transformers
+
+chromadb
+
+pypdf
+
+python-dotenv
+
+langgraph
+
+rank-bm25
+rapidfuzz
